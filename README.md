@@ -1,6 +1,7 @@
 Cars Dashboard
 This is a web application that allows users to perform CRUD operations on a list of cars, as well as authenticate and authorize users to access the application.
 
+<br/>
 Technologies Used
 React
 Node.js version 14.16.1
@@ -11,6 +12,7 @@ redux
 Getting Started
 To run this application locally, follow these steps:
 
+<br/>
 git clone https://github.com/hamza-420/cars-dashboard-backend.git
 cd cars-dashboard
 npm install
@@ -19,6 +21,7 @@ npm install
 
 npm start
 
+<br/>
 Functionality
 User Authentication
 Users can sign up for an account and log in to the application to access the cars dashboard. Authentication is handled using Passport.js and user data is stored in a MongoDB database.
